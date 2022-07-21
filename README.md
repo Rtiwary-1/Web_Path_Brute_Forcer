@@ -1,16 +1,13 @@
-# CloudSek_Assignment
-This repository contains the implementation for the task given by CloudSek for Backend Engineer internship.
 
-
-## TASK: Build a minimal web path brute-forcer: Optimized memory, CPU usage
+# TASK: Build a minimal web path brute-forcer: Optimized memory, CPU usage
 It has 3 inputs; all are required.
 First input is url; second input is the wordlist file; last input is the comma seperated or list input of success codes.
 The sample success codes are : 200, 204, 301, 302, 307, 401, 403.
 
-[Cloudsek_Brute_force_Single_input.py](https://github.com/Rtiwary-1/CloudSek_Assignment/blob/main/Cloudsek_Brute_force_Single_input.py):
+[Brute_force_Single_input.py](https://github.com/Rtiwary-1/CloudSek_Assignment/blob/main/Cloudsek_Brute_force_Single_input.py):
 This code contains the application for single url input.
 
-[Cloudsek_multiple_input.py](https://github.com/Rtiwary-1/CloudSek_Assignment/blob/main/Cloudsek_multiple_input.py):
+[multiple_input.py](https://github.com/Rtiwary-1/CloudSek_Assignment/blob/main/Cloudsek_multiple_input.py):
 This code contains the application for multiple url input.
 
 #[OUTPUT](https://github.com/Rtiwary-1/CloudSek_Assignment/blob/main/Output_code.PNG):
